@@ -1,0 +1,9 @@
+"OrderID","OrderDate","CustomerID","Product","Category","Quantity","UnitPrice","Region","CustomerName","City","Segment","Sales"
+1001,"2026-07-01","C01","Laptop","Electronics",2,55000,"North","Aarav Sharma","Gurugram","Corporate",110000
+1010,"2026-07-11","C07","Laptop","Electronics",1,55000,"North","Not Registered","Unknown","Unknown",55000
+1007,"2026-07-08","C02","Monitor","Electronics",3,14000,"Unknown","priya verma","Delhi","Consumer",42000
+1006,"2026-07-06","C05","Bookshelf","Furniture",2,9000,"South","Vikram Singh","Faridabad","Small Business",18000
+1004,"2026-07-03","C01","Desk","Unknown",1,15000,"North","Aarav Sharma","Gurugram","Corporate",15000
+1003,"2026-07-03","C03","Printer","Electronics",1,12000,"East","Rohan Mehta","Noida","Corporate",12000
+1009,"2026-07-10","C03","Keyboard","Electronics",6,1500,"West","Rohan Mehta","Noida","Corporate",9000
+1002,"2026-07-02","C02","Office Chair","Furniture",1,7500,"South","priya verma","Delhi","Consumer",7500
